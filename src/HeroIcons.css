@@ -1,0 +1,7 @@
+.hero-icon {
+  height: 64px;
+  width: 128px;
+  border-radius: 100px;
+  margin: 0 6px;
+  object-fit: cover;
+}
